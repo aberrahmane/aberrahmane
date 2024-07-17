@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aberrahmane
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Web dev
-- 💞️ I’m looking to collaborate on web development projects 
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on web development and AI projects 
 - 📫 How to reach me dilmiabderrahmanebusiness@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont know how to center a div
